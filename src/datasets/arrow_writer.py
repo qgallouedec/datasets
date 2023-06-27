@@ -31,8 +31,8 @@ from .features.features import (
     cast_to_python_objects,
     generate_from_arrow_type,
     get_nested_type,
-    list_of_np_array_to_pyarrow_listarray,
     list_of_list_of_np_array_to_pyarrow_listlistarray,
+    list_of_np_array_to_pyarrow_listarray,
     numpy_to_pyarrow_listarray,
     to_pyarrow_listarray,
 )
